@@ -1,0 +1,557 @@
+# Airline names
+# Copyright (C) 2017 Doozee Inc.
+# Scott Deerwester <scott@doozee.net>, 2017.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: airline 0.1\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "AL_IATA.M3"
+msgstr "ABSA Cargo Airline"
+
+msgid "AL_IATA.JP"
+msgstr "Adria Airways"
+
+msgid "AL_IATA.A3"
+msgstr "Aegean Airlines"
+
+msgid "AL_IATA.EI"
+msgstr "Aer Lingus Cargo"
+
+msgid "AL_IATA.SU"
+msgstr "Aeroflot"
+
+msgid "AL_IATA.AR"
+msgstr "Aerolineas Argentinas"
+
+msgid "AL_IATA.AM"
+msgstr "Aeromexico Cargo"
+
+msgid "AL_IATA.QO"
+msgstr "Aeromexpress Cargo"
+
+msgid "AL_IATA.6R"
+msgstr "Alrosa Air Company"
+
+msgid "AL_IATA.FK"
+msgstr "Keewatin Air"
+
+msgid "AL_IATA.AH"
+msgstr "Air Algérie"
+
+msgid "AL_IATA.LM"
+msgstr "Livingston"
+
+msgid "AL_IATA.QN"
+msgstr "Air Armenia"
+
+msgid "AL_IATA.D7"
+msgstr "AirAsia"
+
+msgid "AL_IATA.AK"
+msgstr "AirAsia Berhad"
+
+msgid "AL_IATA.KC"
+msgstr "Air Astana"
+
+msgid "AL_IATA.CC"
+msgstr "Air Atlanta Icelandic"
+
+msgid "AL_IATA.BT"
+msgstr "Air Baltic"
+
+msgid "AL_IATA.BO"
+msgstr "AirBridge Cargo"
+
+msgid "AL_IATA.AC"
+msgstr "Air Canada"
+
+msgid "AL_IATA.CA"
+msgstr "Air China"
+
+msgid "AL_IATA.UX"
+msgstr "Air Europa Cargo"
+
+msgid "AL_IATA.AF"
+msgstr "Air France"
+
+msgid "AL_IATA.GL"
+msgstr "Air Greenland"
+
+msgid "AL_IATA.LD"
+msgstr "Air Hong Kong"
+
+msgid "AL_IATA.AI"
+msgstr "Air India Limited"
+
+msgid "AL_IATA.JM"
+msgstr "Jetstar Hong Kong Airways"
+
+msgid "AL_IATA.NX"
+msgstr "Air Macau"
+
+msgid "AL_IATA.MD"
+msgstr "Air Madagascar"
+
+msgid "AL_IATA.QM"
+msgstr "Air Malawi"
+
+msgid "AL_IATA.KM"
+msgstr "Air Malta"
+
+msgid "AL_IATA.MK"
+msgstr "Air Mauritius"
+
+msgid "AL_IATA.9U"
+msgstr "Air Moldova"
+
+msgid "AL_IATA.NZ"
+msgstr "Air New Zealand"
+
+msgid "AL_IATA.HM"
+msgstr "Air Seychelles"
+
+msgid "AL_IATA.TN"
+msgstr "Air Tahiti Nui"
+
+msgid "AL_IATA.TS"
+msgstr "Air Transat"
+
+msgid "AL_IATA.AS"
+msgstr "Alaska Airlines"
+
+msgid "AL_IATA.AZ"
+msgstr "Alitalia"
+
+msgid "AL_IATA.4W"
+msgstr "Allied Air"
+
+msgid "AL_IATA.KH"
+msgstr "Aloha Air Cargo"
+
+msgid "AL_IATA.M6"
+msgstr "Amerijet International"
+
+msgid "AL_IATA.NH"
+msgstr "ANA All Nippon Cargo"
+
+msgid "AL_IATA.OZ"
+msgstr "Asiana Airlines"
+
+msgid "AL_IATA.8V"
+msgstr "Astral Aviation"
+
+msgid "AL_IATA.5Y"
+msgstr "Atlas Air"
+
+msgid "AL_IATA.Z3"
+msgstr "Avient Aviation"
+
+msgid "AL_IATA.J2"
+msgstr "Azerbaijan Airlines"
+
+msgid "AL_IATA.BG"
+msgstr "Biman Bangladesh Airlines"
+
+msgid "AL_IATA.E6"
+msgstr "Bringer Air Cargo Taxi Aéreo"
+
+msgid "AL_IATA.BA"
+msgstr "British Airways"
+
+msgid "AL_IATA.SN"
+msgstr "Brussels Airlines"
+
+msgid "AL_IATA.FB"
+msgstr "Bulgaria Air"
+
+msgid "AL_IATA.5C"
+msgstr "CAL Cargo Air Lines"
+
+msgid "AL_IATA.CV"
+msgstr "Cargolux"
+
+msgid "AL_IATA.C8"
+msgstr "Cargolux Italia"
+
+msgid "AL_IATA.BW"
+msgstr "Caribbean Airlines"
+
+msgid "AL_IATA.CX"
+msgstr "Cathay Pacific Airways"
+
+msgid "AL_IATA.KX"
+msgstr "Cayman Airways"
+
+msgid "AL_IATA.WE"
+msgstr "Thai Smile Airways"
+
+msgid "AL_IATA.CI"
+msgstr "China Airlines"
+
+msgid "AL_IATA.CK"
+msgstr "China Cargo Airlines"
+
+msgid "AL_IATA.MU"
+msgstr "China Eastern Airlines"
+
+msgid "AL_IATA.CO"
+msgstr "Continental Airlines"
+
+msgid "AL_IATA.CM"
+msgstr "Copa Airlines Cargo"
+
+msgid "AL_IATA.7C"
+msgstr "Coyne Aviation"
+
+msgid "AL_IATA.OU"
+msgstr "Croatia Airlines"
+
+msgid "AL_IATA.CY"
+msgstr "Cyprus Airways"
+
+msgid "AL_IATA.OK"
+msgstr "Czech Airlines"
+
+msgid "AL_IATA.DL"
+msgstr "Delta Air Lines"
+
+msgid "AL_IATA.D5"
+msgstr "Dauair"
+
+msgid "AL_IATA.QY"
+msgstr "European Air Transport"
+
+msgid "AL_IATA.KA"
+msgstr "Dragonair"
+
+msgid "AL_IATA.MS"
+msgstr "Egyptair"
+
+msgid "AL_IATA.LY"
+msgstr "EL AL"
+
+msgid "AL_IATA.EK"
+msgstr "Emirates"
+
+msgid "AL_IATA.E7"
+msgstr "European Aviation Air Charter"
+
+msgid "AL_IATA.OV"
+msgstr "Estonian Air"
+
+msgid "AL_IATA.ET"
+msgstr "Ethiopian Airlines"
+
+msgid "AL_IATA.EY"
+msgstr "ETIHAD Airways"
+
+msgid "AL_IATA.BR"
+msgstr "Eva Airways"
+
+msgid "AL_IATA.EF"
+msgstr "Far Eastern Air Transport"
+
+msgid "AL_IATA.FX"
+msgstr "Federal Express"
+
+msgid "AL_IATA.AY"
+msgstr "Finnair"
+
+msgid "AL_IATA.F9"
+msgstr "Frontier Airlines"
+
+msgid "AL_IATA.GY"
+msgstr "Gabon Airlines"
+
+msgid "AL_IATA.GA"
+msgstr "Garuda Indonesia"
+
+msgid "AL_IATA.5S"
+msgstr "Global Aviation and Services"
+
+msgid "AL_IATA.G3"
+msgstr "Gol Airlines (VRG Linhas Aéreas)"
+
+msgid "AL_IATA.GD"
+msgstr "Air Alpha Greenland"
+
+msgid "AL_IATA.GF"
+msgstr "Gulf Air"
+
+msgid "AL_IATA.HU"
+msgstr "Hainan Airlines"
+
+msgid "AL_IATA.HA"
+msgstr "Hawaiian Airlines"
+
+msgid "AL_IATA.N8"
+msgstr "Fika Salaama Airlines"
+
+msgid "AL_IATA.IB"
+msgstr "Iberia"
+
+msgid "AL_IATA.FI"
+msgstr "Icelandair"
+
+msgid "AL_IATA.6E"
+msgstr "IndiGo CarGo"
+
+msgid "AL_IATA.7I"
+msgstr "Insel Air International"
+
+msgid "AL_IATA.IR"
+msgstr "Iran Air"
+
+msgid "AL_IATA.JD"
+msgstr "Beijing Capital Airlines"
+
+msgid "AL_IATA.JL"
+msgstr "Japan Airlines"
+
+msgid "AL_IATA.JU"
+msgstr "JAT Airways"
+
+msgid "AL_IATA.9W"
+msgstr "Jet Airways"
+
+msgid "AL_IATA.QJ"
+msgstr "Jet Airways"
+
+msgid "AL_IATA.B6"
+msgstr "Jetblue Airways"
+
+msgid "AL_IATA.0J"
+msgstr "Jet Club"
+
+msgid "AL_IATA.JX"
+msgstr "Jett8 Airlines Cargo"
+
+msgid "AL_IATA.3J"
+msgstr "Jubba Airways"
+
+msgid "AL_IATA.K4"
+msgstr "Kalitta Air"
+
+msgid "AL_IATA.KQ"
+msgstr "Kenya Airways"
+
+msgid "AL_IATA.IT"
+msgstr "Kingfisher Airlines"
+
+msgid "AL_IATA.KL"
+msgstr "KLM Cargo"
+
+msgid "AL_IATA.KE"
+msgstr "Korean Air"
+
+msgid "AL_IATA.KU"
+msgstr "Kuwait Airways"
+
+msgid "AL_IATA.LR"
+msgstr "LACSA"
+
+msgid "AL_IATA.LA"
+msgstr "LAN Airlines (LATAM) "
+
+msgid "AL_IATA.UC"
+msgstr "LATAM Cargo Chile"
+
+msgid "AL_IATA.1A"
+msgstr "Leaderjet"
+
+msgid "AL_IATA.LI"
+msgstr "Leeward Islands Air Transport"
+
+msgid "AL_IATA.LN"
+msgstr "Libyan Arab Airlines"
+
+msgid "AL_IATA.LO"
+msgstr "LOT Polish Airlines"
+
+msgid "AL_IATA.AB"
+msgstr "LTU (Leisure Cargo)"
+
+msgid "AL_IATA.LH"
+msgstr "Lufthansa Cargo AG"
+
+msgid "AL_IATA.MH"
+msgstr "Malaysian Airline System"
+
+msgid "AL_IATA.AE"
+msgstr "Mandarin Airlines"
+
+msgid "AL_IATA.MP"
+msgstr "Martinair"
+
+msgid "AL_IATA.M7"
+msgstr "MasAir"
+
+msgid "AL_IATA.ME"
+msgstr "Middle East Airlines"
+
+msgid "AL_IATA.MB"
+msgstr "MNG Airlines"
+
+msgid "AL_IATA.KZ"
+msgstr "Nippon Cargo Airlines"
+
+msgid "AL_IATA.OA"
+msgstr "Olympic Air"
+
+msgid "AL_IATA.WY"
+msgstr "Oman Air"
+
+msgid "AL_IATA.PK"
+msgstr "Pakistan International Airlines"
+
+msgid "AL_IATA.PR"
+msgstr "Philippine Airlines"
+
+msgid "AL_IATA.PO"
+msgstr "Polar Air Cargo"
+
+msgid "AL_IATA.QF"
+msgstr "Qantas Airways"
+
+msgid "AL_IATA.QR"
+msgstr "Qatar Airways"
+
+msgid "AL_IATA.AT"
+msgstr "Royal Air Maroc"
+
+msgid "AL_IATA.BI"
+msgstr "Royal Brunei Airlines"
+
+msgid "AL_IATA.RJ"
+msgstr "Royal Jordanian"
+
+msgid "AL_IATA.FR"
+msgstr "Ryan Air"
+
+msgid "AL_IATA.S6"
+msgstr "Star Air"
+
+msgid "AL_IATA.SK"
+msgstr "SAS-Scandinavian Airlines System"
+
+msgid "AL_IATA.SP"
+msgstr "SATA Air Acores"
+
+msgid "AL_IATA.SV"
+msgstr "Saudi Arabian Airlines"
+
+msgid "AL_IATA.SC"
+msgstr "Shandong Airlines"
+
+msgid "AL_IATA.FM"
+msgstr "Shanghai Airlines"
+
+msgid "AL_IATA.3U"
+msgstr "Sichuan Airlines"
+
+msgid "AL_IATA.MI"
+msgstr "Silk Air"
+
+msgid "AL_IATA.ZP"
+msgstr "Silk Way Airlines"
+
+msgid "AL_IATA.SQ"
+msgstr "Singapore Airlines"
+
+msgid "AL_IATA.GG"
+msgstr "Skylease Cargo"
+
+msgid "AL_IATA.4S"
+msgstr "Solar Cargo"
+
+msgid "AL_IATA.SA"
+msgstr "South African Airways"
+
+msgid "AL_IATA.WN"
+msgstr "Southwest Airlines"
+
+msgid "AL_IATA.SG"
+msgstr "spiceJet"
+
+msgid "AL_IATA.UL"
+msgstr "SriLankan Cargo"
+
+msgid "AL_IATA.QP"
+msgstr "Starlight Airlines"
+
+msgid "AL_IATA.LX"
+msgstr "Swiss European Air Lines"
+
+msgid "AL_IATA.DT"
+msgstr "TAAG Angola Airlines"
+
+msgid "AL_IATA.2L"
+msgstr "TAB Transportes Aereos Bolivianos"
+
+msgid "AL_IATA.TA"
+msgstr "TACA"
+
+msgid "AL_IATA.JJ"
+msgstr "TAM Brazilian Airlines"
+
+msgid "AL_IATA.QT"
+msgstr "Tampa Cargo"
+
+msgid "AL_IATA.TP"
+msgstr "TAP Air Portugal"
+
+msgid "AL_IATA.RO"
+msgstr "Tarom"
+
+msgid "AL_IATA.TG"
+msgstr "Thai Airways"
+
+msgid "AL_IATA.BY"
+msgstr "Thomson Airways"
+
+msgid "AL_IATA.3V"
+msgstr "TNT Airways"
+
+msgid "AL_IATA.T0"
+msgstr "Avianca Perú"
+
+msgid "AL_IATA.TK"
+msgstr "Turkish Airlines"
+
+msgid "AL_IATA.PS"
+msgstr "Ukraine International Airlines"
+
+msgid "AL_IATA.UA"
+msgstr "United Airlines Cargo"
+
+msgid "AL_IATA.5X"
+msgstr "United Parcel Service"
+
+msgid "AL_IATA.US"
+msgstr "US Airways"
+
+msgid "AL_IATA.RG"
+msgstr "Varig Linhas Aéreas"
+
+msgid "AL_IATA.VN"
+msgstr "Vietnam Airlines"
+
+msgid "AL_IATA.WS"
+msgstr "Westjet Cargo"
+
+msgid "AL_IATA.MF"
+msgstr "Xiamen Airlines"
+
+msgid "AL_IATA.Y8"
+msgstr "Yangtze River Express"
+
+msgid "AL_IATA.IY"
+msgstr "Yemenia"
